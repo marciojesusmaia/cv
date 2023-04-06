@@ -1,0 +1,48 @@
+
+body {
+    background-color: white;
+    text-align: start;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    margin: 5px;
+    
+    
+
+}
+.pessoal {
+    padding: 20px; 
+    font-size: larger;    
+    
+}
+.sobre {
+    padding: 20px;
+    font-size: larger;
+}
+.xp {
+    padding: 20px;
+    font-size: larger;    
+}
+.rodape {
+    background-color: black;
+    color: white;
+    font-size: larger;
+    text-align: center;
+    padding: 10px;
+}
+.cabeca {
+    background-color: midnightblue;
+    text-align: start;
+    color: white;
+    font-size: larger;
+    padding: 10px;
+
+}
+
+.educ {
+    padding: 20px;
+    font-size: larger;
+}
+.curso {
+    padding: 20px;
+    font-size: larger;
+}
